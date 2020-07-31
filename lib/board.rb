@@ -6,7 +6,7 @@ row[0]
 # Position 2:Top Center
 row[1]
 
-# Position 3:Top Right 
+# Position 3:Top Right
 row[2]
 
 # Position 4:Middle Left
