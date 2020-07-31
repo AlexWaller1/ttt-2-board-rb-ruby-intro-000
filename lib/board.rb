@@ -26,3 +26,6 @@ row[7]
 
 # Position 9: Bottom Right
 row[8]
+
+# Move X to the Position 2
+row[1]="X"
